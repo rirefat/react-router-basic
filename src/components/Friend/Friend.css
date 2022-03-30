@@ -1,0 +1,19 @@
+.friend-card{
+    border: 1px solid rgb(129 140 248);
+    border-radius: 8px;
+    padding: 12px;
+    background-color: white;
+}
+.friend-card button{
+    background-color: rgb(129 140 248);
+    font-size: 16px;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    filter: drop-shadow(0 20px 13px rgb(0 0 0 / 0.03)) drop-shadow(0 8px 5px rgb(0 0 0 / 0.08));
+}
+.friend-card button:hover{
+    background-color: rgb(67 56 202);
+}
