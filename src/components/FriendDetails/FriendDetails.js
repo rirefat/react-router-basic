@@ -6,7 +6,7 @@ const FriendDetails = () => {
     return (
         <div>
             <h1>User Details.</h1>
-            <h4>ID: {params.id}</h4>
+            <h4>Id: {params.id}</h4>
         </div>
     );
 };
